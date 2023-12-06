@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<epistemology>
+    <mental_model>
+        <title>反应迟缓的调节回路</title>
+        <algorithm></algorithm>
+        <reason></reason>
+        <question></question>
+        <object></object>
+        <attribute></attribute>
+    </mental_model>
+    <mental_model>
+        <title>成长上限</title>
+    </mental_model>
+    <mental_model>
+        <title>舍本逐末</title>
+    </mental_model>
+    <mental_model>
+        <title>目标侵蚀</title>
+    </mental_model>
+    <mental_model>
+        <title>恶性竞争</title>
+    </mental_model>
+    <mental_model>
+        <title>富者愈富</title>
+    </mental_model>
+    <mental_model>
+        <title>共同悲剧</title>
+    </mental_model>
+    <mental_model>
+        <title>饮鸩止渴</title>
+    </mental_model>
+    <mental_model>
+        <title>成长与投资不足</title>
+    </mental_model>
+</epistemology>

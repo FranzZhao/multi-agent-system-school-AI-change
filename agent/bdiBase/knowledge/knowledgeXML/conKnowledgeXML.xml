@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notebook>
+    <!-- 元数据应当存储为属性, 数据本身要存储为元素 -->
+    <note id="101">
+        <category>reminder</category>
+        <to>George</to>
+        <from>John</from>
+        <heading>Reminder</heading>
+        <body>Don't forget the meeting!</body>
+        <date>
+            <day>10</day>
+            <month>12</month>
+            <year>2021</year>
+        </date>
+    </note>
+    <note id="102">
+        <category>reflection</category>
+        <to>John</to>
+        <from>John</from>
+        <heading>Self Reflection</heading>
+        <body>meatcognition activity</body>
+        <date>
+            <day>10</day>
+            <month>12</month>
+            <year>2021</year>
+        </date>
+    </note>
+</notebook>
